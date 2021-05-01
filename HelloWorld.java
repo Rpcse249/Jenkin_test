@@ -1,5 +1,9 @@
-public class HelloWorld{
-  public static void main(String args[]){
-    System.out.println("Hello from jenkins");
-  }
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello jenkins");
+	}
+
 }
